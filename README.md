@@ -70,4 +70,5 @@ That's the question we'll dig into in the next article. The short version: this 
 But that starts here — with ten years of building something worth finding.
 
 Read the Next Article Now
+
 [The Gap Nobody Talks About in Cybersecurity Training](https://www.simulationslabs.com/blogs/The_Gap_Nobody_Talks_About_in_Cybersecurity_Training)
